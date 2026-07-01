@@ -32,5 +32,5 @@ zig build run -- https://example.com
 ## プラットフォーム対応状況
 
 - macOS: ビルド・動作確認済み
-- Windows: ビルド可能(クロスコンパイルで確認済み)。実機では未検証。実行時に `WebView2Loader.dll` が必要(Windows 10/11では標準搭載のEvergreen WebView2 Runtimeから提供される)
+- Windows: ビルド・動作確認済み。実行時に `WebView2Loader.dll` が必要(Windows 10/11では標準搭載のEvergreen WebView2 Runtimeから提供される)
 - Linux: ビルド設定済み、未検証
