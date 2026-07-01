@@ -34,5 +34,5 @@ zig build run -- https://example.com
 ## Platform status
 
 - macOS: built and tested
-- Windows: builds (cross-compile verified); untested on real hardware. Needs `WebView2Loader.dll` available at runtime (ships with Windows 10/11 by default via the Evergreen WebView2 Runtime).
+- Windows: built and tested. Needs `WebView2Loader.dll` available at runtime (ships with Windows 10/11 by default via the Evergreen WebView2 Runtime).
 - Linux: build configured, untested
